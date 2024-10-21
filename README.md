@@ -32,7 +32,7 @@ My Expertise: As a full stack developer, I possess a versatile skill set encompa
 My Approach: Driven by a passion for problem-solving and a commitment to excellence, I approach every project with creativity, enthusiasm, and attention to detail. Whether it's bringing a client's vision to life, optimizing code for performance, or troubleshooting bugs, I thrive in the dynamic challenges of software development, constantly pushing boundaries and raising the bar for quality.
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ns-jerry-portfolio.netlify.app/))
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ns-jerry-portfolio.netlify.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-sahu-a0848b306/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/brb_jerry)
 
